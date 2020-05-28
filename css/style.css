@@ -1,0 +1,36 @@
+/* style.css file */
+
+a:hover {
+	text-decoration: none;
+}
+h1 {
+	font-family:  tahoma;
+}
+p {
+	font-family:  tahoma
+ 	font-size: 18px;
+
+}
+textarea {
+	resize: vertical;
+ }
+.header {
+ 	height:200px;
+ 	background-color: #b71515;
+ 	border-top-left-radius:7px; 
+	border-top-right-radius:7px;
+ }
+.header a h1 {
+ 	color: #fff;
+ 	padding: 50px 10px;
+ }
+.footer {
+	background-color: #333;
+	border-top-left-radius:7px; 
+	border-top-right-radius:7px;
+}
+.footer p {
+	color: #fff;
+	line-height: 40px;
+	text-align: center;
+}
