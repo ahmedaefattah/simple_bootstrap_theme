@@ -17,8 +17,8 @@ textarea {
 .header {
  	height:200px;
  	background-color: #b71515;
- 	border-top-left-radius:7px; 
-	border-top-right-radius:7px;
+ 	border-radius: 5px;
+
  }
 .header a h1 {
  	color: #fff;
@@ -26,8 +26,7 @@ textarea {
  }
 .footer {
 	background-color: #333;
-	border-top-left-radius:7px; 
-	border-top-right-radius:7px;
+	border-radius: 5px;
 }
 .footer p {
 	color: #fff;
