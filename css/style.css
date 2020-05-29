@@ -16,14 +16,13 @@ textarea {
 	resize: vertical;
  }
 .header {
- 	height:200px;
+	margin-bottom: 0;
  	background-color: #b71515;
  	border-radius: 5px;
 
  }
 .header a h1 {
- 	color: #fff;
- 	padding: 50px 10px;
+ 	color: #fff;	
  }
 .footer {
 	height:60px;
